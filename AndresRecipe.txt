@@ -1,6 +1,6 @@
 Pizza (12 inch pizza)
 
-Ingredients
+Ingredients:
 
 	Sauce
 	1 tablespoon olive oil
