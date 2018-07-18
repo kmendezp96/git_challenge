@@ -1,6 +1,6 @@
 Endavitos Menu
 
-Pizza --> Price: 50.000 COP
-Cookies		5.000
---> Spaguetti with Carbonara sauce
+Pizza --> Price: $37.000 COP
+Cookies		$5.800 COP
+--> Spaguetti with Carbonara sauce $21.000 COP
 
