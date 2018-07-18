@@ -25,18 +25,11 @@ ________________________________________________________________________________
 		1 heaping teaspoon Italian seasoning
 		1 heaping teaspoon parmesan cheese
 	Toppings
-<<<<<<< HEAD
-	Mozzarella cheese
-	green bell pepper, diced
-	black olives
-	turkey pepperoni
-___________________________________________________________________________________________________________
-=======
 		Mozzarella cheese
 		green bell pepper, diced
 		black olives
 		turkey pepperoni
->>>>>>> parent of 92d2474... some chages in the format of ingredients
+___________________________________________________________________________________________________________
 
 Method
 ___________________________________________________________________________________________________________
