@@ -2,3 +2,4 @@ Menu
 
 
 Pizza --> Price: 50.000 COP
+Cookies		5.000
