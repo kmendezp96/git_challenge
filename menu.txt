@@ -1,6 +1,12 @@
-Endavitos Menu
+-Endavitos Menu
+ Welcome to the menu from Endava's Restaurant, this menu was made by some interns, we count on:
 
-Pizza --> Price: $37.000 COP
-Cookies		$5.800 COP
---> Spaguetti with Carbonara sauce $21.000 COP
+--Snacks
+  Cookies..........................$5.800 COP
+--Mains Courses
+  Pizza............................$37.000 COP
+  Spaguetti with Carbonara Sauce...$21.000 COP
 
+We hope your visit soon. 
+
+Book your experience in www.endavarestaurant.com
